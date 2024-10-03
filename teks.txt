@@ -1,4 +1,7 @@
 Hallo Saya Muhammad Ilham Ikhsani dari Teknik Informatika
 NPM : 5520122006
+<<<<<<< HEAD
 
 Saya balls
+=======
+>>>>>>> 0ad6e43 (commit kedua)
